@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: o diretório Output não termina com uma barra à direita. Essa instância de compilação adicionará a barra conforme necessário para permitir a avaliação adequada do Diretório Output.
+  teste.cpp
+C:\Users\frdav\source\repos\produtorConsumidor\produtorConsumidor\teste.cpp(29,6): warning C4101: 'item': variável local não referenciada
+C:\Users\frdav\source\repos\produtorConsumidor\produtorConsumidor\teste.cpp(57,6): warning C4101: 'item': variável local não referenciada
+  produtorConsumidor.vcxproj -> C:\Users\frdav\source\repos\produtorConsumidor\produtorConsumidor\..\..\..\..\Desktop\pthreads4w-code-07053a521b0a9deb6db2a649cde1f828f2eb1f4f\produtorConsumidor.exe
